@@ -28,6 +28,8 @@ I'm passionate about Artificial Intelligence, Generative AI, Large Language Mode
 
 - [Introduction to Agents](https://github.com/DamilolaAjayi-creator/Certifications)
 - [EF SET English Certificate](https://github.com/DamilolaAjayi-creator/Certifications/blob/main/EF%20SET%20%20English%20Certificate.pdf)
+- [Certified AI Data Annotation Specialist](https://github.com/DamilolaAjayi-creator/Certifications/blob/main/Certified%20AI%20Data%20Annotation%20Specialist.jpg)
+  
 
 <!--
 **DamilolaAjayi-creator/DamilolaAjayi-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
