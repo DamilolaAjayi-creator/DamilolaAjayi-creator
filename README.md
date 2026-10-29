@@ -29,6 +29,7 @@ I'm passionate about Artificial Intelligence, Generative AI, Large Language Mode
 - [Introduction to Agents, Mercor](https://github.com/DamilolaAjayi-creator/Certifications)
 - [EF SET English Certificate, EF SET](https://github.com/DamilolaAjayi-creator/Certifications/blob/main/EF%20SET%20%20English%20Certificate.pdf)
 - [Certified AI Data Annotation Specialist, Micro1](https://github.com/DamilolaAjayi-creator/Certifications/blob/main/Certified%20AI%20Data%20Annotation%20Specialist.jpg)
+- [Certificate of Completion: What Is Generative AI, LinkedIn Learning](https://github.com/DamilolaAjayicreator/Certifications/blob/main/CertificateOfCompletion_What%20Is%20Generative%20AI.pdf)
   
 
 <!--
