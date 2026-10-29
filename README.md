@@ -24,6 +24,63 @@ I'm passionate about Artificial Intelligence, Generative AI, Large Language Mode
 - Generative AI
 
 
+## Experience
+
+### Transcriptionist | Argos Multilingual
+*Remote | Jun 2026 – Aug 2026*
+- Transcribed and annotated audio recordings following detailed project-specific guidelines
+- Reviewed and validated transcripts for accuracy, consistency, formatting, and labeling standards
+- Corrected errors in speech content, speaker utterances, timestamps, and audio quality
+- Addressed automated QA feedback before final review, keeping work consistent across speakers and accents
+
+### Data Annotator | e2f, Inc. (IDEAS Project)
+*Remote | Jun 2025 – Present*
+- Annotate large-scale text and audio datasets for NLP and ASR model training
+- Handle voice annotation, fact-checking, and text classification workflows
+- Maintain high accuracy while meeting productivity and quality benchmarks
+
+### Data Annotator | RWS Group
+*Remote | Sep 2025 – Nov 2025*
+- Annotated and validated datasets to support the development of advanced AI systems
+- Performed quality assurance checks on labeled data
+- Delivered high-quality work within tight deadlines
+
+### Speech Rater | LXT AI
+*Remote | Dec 2024 – Apr 2025*
+- Assessed 150+ audio samples daily for fluency, grammar, and pronunciation
+- Maintained 97%+ scoring consistency across diverse accents and speech patterns
+- Helped improve training data quality for multilingual ASR systems
+
+### ASR Evaluator & Transcriber | TELUS International
+*Remote | Nov 2022 – Nov 2024*
+- Evaluated 200+ hours of audio by comparing ASR outputs with human transcription
+- Identified transcription errors and suggested improvements to model performance
+- Ranked in the top 10% of evaluators based on QA audits and accuracy
+
+### Data Annotator | Remotasks
+*Remote | Jun 2021 – Oct 2022*
+- Labeled and reviewed 10,000+ text and audio data units for AI training
+- Worked on NER tagging, sentiment analysis, and conversational segmentation
+- Achieved 95%+ accuracy in quality assurance reviews
+
+### Freelance Scriptwriter
+*Remote | Jan 2021 – May 2021*
+- Wrote 20+ scripts for YouTube creators and digital brands
+- Delivered all projects on time, matching client tone and style
+
+## Education
+
+**Bachelor of Science in Sociology** | University of Ilorin
+*Oct 2014 – Sep 2018*
+
+## Tools & Platforms
+
+Labelbox • SuperAnnotate • Remotasks • TELUS Platform • Microsoft Excel • Google Sheets • Express Scribe • Slack • Trello • Notion
+
+## Languages
+
+English (Fluent) • Yoruba (Native)
+
 ## Certifications
 
 - [Introduction to Agents, Mercor](https://github.com/DamilolaAjayi-creator/Certifications)
