@@ -23,6 +23,10 @@ I'm passionate about Artificial Intelligence, Generative AI, Large Language Mode
 - Data Validation & QA
 - Generative AI
 
+
+## Certifications
+
+- [Introduction to Agents](https://github.com/DamilolaAjayi-creator/Certifications)
 <!--
 **DamilolaAjayi-creator/DamilolaAjayi-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
