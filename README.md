@@ -88,6 +88,8 @@ English (Fluent) • Yoruba (Native)
 - [Certified AI Data Annotation Specialist, Micro1](https://github.com/DamilolaAjayi-creator/Certifications/blob/main/Certified%20AI%20Data%20Annotation%20Specialist.jpg)
 - [Certificate of Completion: What Is Generative AI, LinkedIn Learning](https://github.com/DamilolaAjayicreator/Certifications/blob/main/CertificateOfCompletion_What%20Is%20Generative%20AI.pdf)
 
+- <img src="https://github.com/DamilolaAjayi-creator/Certifications/blob/main/Certified%20AI%20Data%20Annotation%20Specialist.jpg?raw=true" width="400" alt="Certified AI Data Annotation Specialist, Micro1">
+
 
   ## Contact
 
