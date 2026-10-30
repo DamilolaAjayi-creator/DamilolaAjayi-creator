@@ -88,7 +88,19 @@ English (Fluent) • Yoruba (Native)
 - [Certified AI Data Annotation Specialist, Micro1](https://github.com/DamilolaAjayi-creator/Certifications/blob/main/Certified%20AI%20Data%20Annotation%20Specialist.jpg)
 - [Certificate of Completion: What Is Generative AI, LinkedIn Learning](https://github.com/DamilolaAjayicreator/Certifications/blob/main/CertificateOfCompletion_What%20Is%20Generative%20AI.pdf)
 
-- <img src="https://github.com/DamilolaAjayi-creator/Certifications/blob/main/Certified%20AI%20Data%20Annotation%20Specialist.jpg?raw=true" width="400" alt="Certified AI Data Annotation Specialist, Micro1">
+## Certifications
+
+### Introduction to Agents, Mercor
+<img src="https://github.com/DamilolaAjayi-creator/Certifications/blob/main/mercor-introduction-to-agents.png?raw=true" width="400" alt="Introduction to Agents, Mercor">
+
+### EF SET English Certificate (C2 Proficient)
+<img src="https://github.com/DamilolaAjayi-creator/Certifications/blob/main/ef-set-english-certificate.png?raw=true" width="300" alt="EF SET English Certificate">
+
+### Certified AI Data Annotation Specialist, Micro1
+<img src="https://github.com/DamilolaAjayi-creator/Certifications/blob/main/Certified%20AI%20Data%20Annotation%20Specialist.jpg?raw=true" width="400" alt="Certified AI Data Annotation Specialist, Micro1">
+
+### What Is Generative AI?, LinkedIn Learning
+<img src="https://github.com/DamilolaAjayi-creator/Certifications/blob/main/linkedin-learning-what-is-generative-ai.png?raw=true" width="400" alt="What Is Generative AI, LinkedIn Learning">
 
 
   ## Contact
