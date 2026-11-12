@@ -1,5 +1,7 @@
-Hi, I'm Damilola Ajayi 👋
-AI Data Annotation Specialist | 3D & LiDAR Annotation | AI/ML Trainer | Speech & Transcription | RLHF | Generative AI | LLM Evaluation
+# Hi, I'm Damilola Ajayi 👋
+
+
+### AI Data Annotation Specialist | 3D & LiDAR Annotation | AI/ML Trainer | Speech & Transcription | RLHF | Generative AI | LLM Evaluation
 I'm a Data Annotation, AI Training, and Transcription Specialist with 3+ years of experience supporting AI and machine learning projects.
 
 My expertise includes text, audio, speech, image, and video annotation, transcription, LLM evaluation, RLHF, NLP, ASR validation, data classification, response evaluation, data validation, and quality assurance.
@@ -9,9 +11,9 @@ I'm also developing specialized skills in 3D and LiDAR data annotation, includin
 I'm detail-oriented, analytical, adaptable, and comfortable working independently in fast-paced environments. I take pride in producing accurate, consistent, high-quality data that helps improve AI and machine learning systems.
 
 
-🔹 Core Skills
+## 🔹 Core Skills
 
-AI & Data Annotation
+### AI & Data Annotation
 - Text, Image, Audio, and Video Annotation
 - 3D Point Cloud Annotation
 - LiDAR Data Annotation
@@ -46,7 +48,7 @@ Transcription & Speech Annotation
 - Timestamping
 - Transcript Review and Quality Control
 
-🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
 - Labelbox
 - SuperAnnotate
 - Remotasks
@@ -60,7 +62,7 @@ Transcription & Speech Annotation
 - Canva
 
 
-💼 Professional Experience
+## 💼 Professional Experience
 Transcriptionist | Argos Multilingual
 - Transcribed and reviewed audio recordings with attention to accuracy and detail.
 - Identified and corrected transcription errors.
