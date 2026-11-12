@@ -1,37 +1,70 @@
-# Hi, I'm Damilola Ajayi 👋
+Hi, I'm Damilola Ajayi 👋
+AI Data Annotation Specialist | 3D & LiDAR Annotation | AI/ML Trainer | Speech & Transcription | RLHF | Generative AI | LLM Evaluation
+I'm a Data Annotation, AI Training, and Transcription Specialist with 3+ years of experience supporting AI and machine learning projects.
 
-## Data Annotation, AI Training & Transcription Specialist
+My expertise includes text, audio, speech, image, and video annotation, transcription, LLM evaluation, RLHF, NLP, ASR validation, data classification, response evaluation, data validation, and quality assurance.
 
-I'm a Data Annotation, AI Training & Transcription Specialist with 3+ years of experience supporting AI and machine learning projects.
+I'm also developing specialized skills in 3D and LiDAR data annotation, including point-cloud interpretation, 3D bounding boxes, cuboid annotation, object detection, classification, tracking, and spatial data labeling.
 
-My expertise includes text, audio, speech and image annotation, transcription, LLM evaluation, RLHF, NLP, ASR, response evaluation, data validation, and quality assurance. I specialize in producing accurate, consistent, high-quality data that helps improve AI and machine learning systems.
-
-I'm detail-oriented, analytical, adaptable, and comfortable working independently in fast-paced environments. My background in sales, customer service, and operations has also strengthened my communication, problem-solving, and relationship-management skills.
-
-I'm passionate about Artificial Intelligence, Generative AI, Large Language Models, and emerging technologies, and I'm continuously developing my skills in this rapidly evolving field.
-
-## Core Skills
-
-- Data Annotation
-- AI Training
-- Transcription
-- LLM Evaluation
-- RLHF
-- NLP
-- ASR
-- Response Evaluation
-- Data Validation & QA
-- Generative AI
+I'm detail-oriented, analytical, adaptable, and comfortable working independently in fast-paced environments. I take pride in producing accurate, consistent, high-quality data that helps improve AI and machine learning systems.
 
 
-## Experience
+🔹 Core Skills
 
-### Transcriptionist | Argos Multilingual
-*Remote | Jun 2026 – Aug 2026*
-- Transcribed and annotated audio recordings following detailed project-specific guidelines
-- Reviewed and validated transcripts for accuracy, consistency, formatting, and labeling standards
-- Corrected errors in speech content, speaker utterances, timestamps, and audio quality
-- Addressed automated QA feedback before final review, keeping work consistent across speakers and accents
+AI & Data Annotation
+- Text, Image, Audio, and Video Annotation
+- 3D Point Cloud Annotation
+- LiDAR Data Annotation
+- 3D Bounding Boxes and Cuboid Annotation
+- Object Detection and Classification
+- Object Tracking
+- Semantic Segmentation
+- Frame-by-Frame Annotation
+- Data Labeling and Classification
+- Data Validation and Quality Assurance
+- Spatial Data Interpretation
+
+- AI & Machine Learning
+- Large Language Model (LLM) Evaluation
+- Reinforcement Learning from Human Feedback (RLHF)
+- Natural Language Processing (NLP)
+- Automatic Speech Recognition (ASR)
+- AI Response Evaluation
+- Prompt Evaluation
+- Named Entity Recognition (NER)
+- Intent Classification
+- Sentiment Analysis
+- Model Output Evaluation
+
+- 
+Transcription & Speech Annotation
+- General and Legal Transcription
+- Audio Annotation
+- Speech Evaluation
+- ASR Validation
+- Speaker Identification
+- Timestamping
+- Transcript Review and Quality Control
+
+🛠️ Tools & Platforms
+- Labelbox
+- SuperAnnotate
+- Remotasks
+- TELUS AI Platform
+- Express Scribe
+- Microsoft Excel
+- Google Sheets
+- Slack
+- Trello
+- Notion
+- Canva
+
+
+💼 Professional Experience
+Transcriptionist | Argos Multilingual
+- Transcribed and reviewed audio recordings with attention to accuracy and detail.
+- Identified and corrected transcription errors.
+- Followed project guidelines and quality standards.
 
 ### Data Annotator | e2f, Inc. (IDEAS Project)
 *Remote | Jun 2025 – Present*
@@ -107,7 +140,12 @@ English (Fluent) • Yoruba (Native)
 
 - LinkedIn: [Damilola Ajayi](https://linkedin.com/in/damilola-ajayi-648069197)
 - Email: dammtaiwo@gmail.com
-  
+
+
+  💡 What I'm Interested In
+I'm passionate about artificial intelligence, machine learning, data quality, generative AI, and building reliable AI systems through accurate human feedback and high-quality data annotation.
+
+I'm always open to learning opportunities, collaborations, and remote opportunities in AI data annotation, 3D and LiDAR annotation, AI training, transcription, and LLM evaluation.
 
 <!--
 **DamilolaAjayi-creator/DamilolaAjayi-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
